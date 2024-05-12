@@ -1,0 +1,17 @@
+{
+    "examDates": {
+        "endDate": "05/01/2024",
+        "startDate": "05/03/2024"
+    },
+    "exams": [
+        {
+            "endTime": "23:03",
+            "startTime": "03:04"
+        }
+    ],
+    "fridayPrayerTimes": {
+        "endTime": "",
+        "startTime": ""
+    },
+    "numExamsPerDay": 1
+}
